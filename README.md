@@ -1,2 +1,2 @@
 # MY-First-Project
-Stone Paper Scissor Game 
+This is my Firsr Project in which I created a Stone Paper Scissors Game 
